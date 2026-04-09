@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "agente01-haiku": "tsx agents/agente01-guion/agente01.ts",
     "agente01-gemini": "tsx agents/agente01-guion/agente01-gemini.ts",
-    "agente02": "tsx agents/agente02-audio/agente02.ts"
+    "agente02": "tsx agents/agente02-audio/agente02.ts",
+    "agente03": "tsx agents/agente03-subtitulos/agente03.ts"
   },
   "keywords": [],
   "author": "",

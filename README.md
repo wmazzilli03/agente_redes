@@ -149,4 +149,7 @@ El sistema rotación automática entre 5 ejes temáticos:
 
 ## Licencia
 
+## Donde ver las voces
+## https://ttsopen.ai/
+
 ISC
