@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+results/*.json
+results/*.html
+results/guiones/*.md
+results/audio/*.mp3
+prompts/*.txt
+
+# Allow .gitkeep files but keep folders empty
+!prompts/.gitkeep
+!results/audio/.gitkeep
+!results/guiones/.gitkeep

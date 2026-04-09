@@ -1,0 +1,29 @@
+{
+  "name": "agente_redes",
+  "version": "1.0.0",
+  "description": "ayudarme a crear contenido",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "agente01-haiku": "tsx agents/agente01-guion/agente01.ts",
+    "agente01-gemini": "tsx agents/agente01-guion/agente01-gemini.ts",
+    "agente02": "tsx agents/agente02-audio/agente02.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.86.1",
+    "@google/generative-ai": "^0.24.1",
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "dotenv": "^17.4.1",
+    "openai": "^6.34.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}
