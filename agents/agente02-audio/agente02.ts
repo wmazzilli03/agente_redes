@@ -75,35 +75,115 @@ function limpiarTexto(texto: string): string {
 }
 
 // ============================================
+// DIVIDIR TEXTO EN PARTES
+// OpenAI TTS acepta máximo 4096 caracteres
+// Divide respetando los puntos finales
+// ============================================
+function dividirTexto(texto: string, maxCaracteres: number = 4000): string[] {
+  const partes: string[] = [];
+  let textoRestante = texto;
+
+  while (textoRestante.length > 0) {
+    // Si el texto restante cabe en una parte
+    if (textoRestante.length <= maxCaracteres) {
+      partes.push(textoRestante.trim());
+      break;
+    }
+
+    // Busca el último punto antes del límite
+    // para no cortar una frase a la mitad
+    let cortarEn = textoRestante.lastIndexOf(".", maxCaracteres);
+
+    // Si no encuentra punto, busca coma
+    if (cortarEn === -1) {
+      cortarEn = textoRestante.lastIndexOf(",", maxCaracteres);
+    }
+
+    // Si no encuentra nada, corta en el límite
+    if (cortarEn === -1) {
+      cortarEn = maxCaracteres;
+    }
+
+    partes.push(textoRestante.substring(0, cortarEn + 1).trim());
+    textoRestante = textoRestante.substring(cortarEn + 1).trim();
+  }
+
+  return partes;
+}
+
+// ============================================
 // GENERAR AUDIO CON OPENAI TTS
-// Recibe texto, devuelve archivo .mp3
+// Si el texto es largo lo divide en partes
+// y luego une todos los .mp3 en uno solo
 // ============================================
 async function generarAudio(
-    texto: string,
-    rutaSalida: string
+  texto: string,
+  rutaSalida: string
 ): Promise<void> {
-    console.log(`⏳ Generando audio...`);
-    console.log(`   Caracteres: ${texto.length}`);
-    console.log(`   Guardando en: ${rutaSalida}\n`);
+  console.log(`⏳ Generando audio...`);
+  // Limpia el texto antes de mandarlo a OpenAI
+  texto = prepararParaAudio(texto);
+  console.log(`   Caracteres: ${texto.length}`);
+  console.log(`   Guardando en: ${rutaSalida}\n`);
 
-    // --- Llama a OpenAI TTS ---
+  // ============================================
+// PREPARAR TEXTO PARA AUDIO
+// Limpia caracteres que confunden a OpenAI TTS
+// ============================================
+function prepararParaAudio(texto: string): string {
+  return texto
+    .replace(/…/g, ".")
+    .replace(/—/g, ",")
+    .replace(/[\u{1F300}-\u{1F9FF}]/gu, "")
+    .replace(/[\u{2600}-\u{27BF}]/gu, "")
+    // Agrega pausa antes del signo al final ← NUEVO
+    .replace(/,\s*(Aries|Tauro|Géminis|Cáncer|Leo|Virgo|Libra|Escorpio|Sagitario|Capricornio|Acuario|Piscis)\s*\./g, 
+             ". $1.")
+    .replace(/  +/g, " ")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+  // Divide el texto en partes de 4000 caracteres
+  const partes = dividirTexto(texto, 4000);
+  console.log(`   Partes generadas: ${partes.length}`);
+
+  // Si solo hay una parte — proceso normal
+  if (partes.length === 1) {
     const respuesta = await client.audio.speech.create({
-        model: "tts-1",        // modelo estándar de OpenAI
-
-        //voice: "coral",    // 1ra — expresiva, natural ⭐
-        //voice: "sage",     // 3ra — serena, madura ⭐
-        voice: "nova",     // 2da — cálida, cercana ⭐
-        //voice: "marin",     // 2da — cálida, cercana ⭐
-        //voice: "shimmer",  // 4ta — la que ya probaste    // voz femenina cálida ← la que elegiste
-        input: texto,          // el texto limpio del guión
-        speed: 0.9,            // un poco más lento — estilo tarot
+      //model: "tts-1",
+      model: "tts-1-hd",
+      voice: "nova",
+      input: partes[0],
+      speed: 0.9,
     });
-
-    // --- Convierte la respuesta a buffer y guarda ---
     const buffer = Buffer.from(await respuesta.arrayBuffer());
     fs.writeFileSync(rutaSalida, buffer);
 
-    console.log(`✅ Audio guardado: ${path.basename(rutaSalida)}`);
+  } else {
+    // Si hay varias partes — genera cada una y las une
+    const buffers: Buffer[] = [];
+
+    for (let i = 0; i < partes.length; i++) {
+      console.log(`   Generando parte ${i + 1} de ${partes.length}...`);
+
+      const respuesta = await client.audio.speech.create({
+        model: "tts-1",
+        voice: "nova",
+        input: partes[i],
+        speed: 0.9,
+      });
+
+      const buffer = Buffer.from(await respuesta.arrayBuffer());
+      buffers.push(buffer);
+    }
+
+    // Une todos los buffers en un solo archivo
+    const audioCompleto = Buffer.concat(buffers);
+    fs.writeFileSync(rutaSalida, audioCompleto);
+  }
+
+  console.log(`✅ Audio guardado: ${path.basename(rutaSalida)}`);
 }
 
 // ============================================

@@ -122,7 +122,7 @@ async function main() {
   console.log("💚 Modo gratuito — Gemini via OpenRouter\n");
 
   const signo = await preguntar(
-    "¿Para qué signo? (ej: Aries, Tauro, Geminis, Cancer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis): "
+    "¿Para qué signo? (ej: Geminis, Tauro, Escorpio, Aries, Cancer, Libra, Leo, Virgo, Capricornio ,Sagitario , Acuario, Piscis ): "
   );
 
   if (!ELEMENTOS[signo]) {
