@@ -152,4 +152,19 @@ El sistema rotación automática entre 5 ejes temáticos:
 ## Donde ver las voces
 ## https://ttsopen.ai/
 
+#Voces:
+nova
+alloy
+ash
+ballad
+coral
+echo
+fable
+onyx
+sage
+shimmer
+verse
+marin
+cedar
+
 ISC

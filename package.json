@@ -8,14 +8,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "agente01-haiku": "tsx agents/agente01-guion/agente01.ts",
     "agente01-gemini": "tsx agents/agente01-guion/agente01-gemini.ts",
+    "agente01-openai": "tsx agents/agente01-guion/agente01-openai.ts",
+    "agente01-astrologia": "tsx agents/agente01-guion/agente01-astrologia.ts",
     "agente02": "tsx agents/agente02-audio/agente02.ts",
-    "agente03": "tsx agents/agente03-subtitulos/agente03.ts"
+    "agente03": "tsx agents/agente03-subtitulos/agente03.ts",
+    "agente04-gemini": "tsx agents/agente04-imagenes/agente04-gemini.ts",
+    "agente04-openai": "tsx agents/agente04-imagenes/agente04-openai.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.86.1",
+    "@google/genai": "^1.49.0",
     "@google/generative-ai": "^0.24.1",
     "@modelcontextprotocol/sdk": "^1.29.0",
     "dotenv": "^17.4.1",

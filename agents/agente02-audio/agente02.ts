@@ -154,6 +154,7 @@ function prepararParaAudio(texto: string): string {
       //model: "tts-1",
       model: "tts-1-hd",
       voice: "nova",
+      //nova
       input: partes[0],
       speed: 0.9,
     });
@@ -168,7 +169,7 @@ function prepararParaAudio(texto: string): string {
       console.log(`   Generando parte ${i + 1} de ${partes.length}...`);
 
       const respuesta = await client.audio.speech.create({
-        model: "tts-1",
+        model: "tts-1-hd",
         voice: "nova",
         input: partes[i],
         speed: 0.9,
