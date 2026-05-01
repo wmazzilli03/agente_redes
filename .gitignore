@@ -5,7 +5,7 @@ results/*.json
 results/*.html
 results/guiones/*.md
 results/audio/*.mp3
-prompts/*.txt
+#prompts/*.txt
 
 # Allow .gitkeep files but keep folders empty
 !prompts/.gitkeep

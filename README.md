@@ -168,3 +168,9 @@ marin
 cedar
 
 ISC
+
+Agente gratis audio voces
+es-CO-SalomeNeural
+es-MX-DaliaNeural
+es-ES-ElviraNeural
+es-AR-ElenaNeural

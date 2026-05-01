@@ -311,15 +311,19 @@ async function generarElemento() {
   const rutaPrompt = path.join(__dirname, "../../prompts/prompt-elemento.txt");
   const promptMaster = fs.readFileSync(rutaPrompt, "utf-8");
 
-  const mensajeUsuario = `
-Usando el siguiente Prompt Master, genera el paquete completo.
+    const mensajeUsuario = `
+    INSTRUCCIONES CRÍTICAS — DEBES CUMPLIRLAS TODAS:
+    1. Entrega ÚNICAMENTE el paquete final, sin versiones previas ni borradores
+    2. NO incluyas verificaciones de caracteres ni notas de ajuste
+    3. NO escribas "Guion optimizado" ni "versión anterior"
+    4. El guion va directo con sus etiquetas [DETENTE][HOOK][CONFLICTO][MENSAJE][ELECCIÓN][CIERRE]
+    5. El guion COMPLETO no puede superar 1,650 caracteres — escríbelo así desde el inicio
 
-ELEMENTO: ${elementoFinal}
-SIGNOS DEL ELEMENTO: ${signosDelElemento}
+    ELEMENTO: ${elementoFinal}
+    SIGNOS DEL ELEMENTO: ${signosDelElemento}
 
-PROMPT MASTER:
-${promptMaster}
-`;
+    PROMPT MASTER:
+    ${promptMaster}`;
 
   const respuesta = await client.messages.create({
     model: "claude-haiku-4-5-20251001",
@@ -385,13 +389,17 @@ async function generarEspejo() {
   const promptMaster = fs.readFileSync(rutaPrompt, "utf-8");
 
   const mensajeUsuario = `
-Usando el siguiente Prompt Master, genera el paquete completo.
+  INSTRUCCIONES CRÍTICAS — DEBES CUMPLIRLAS TODAS:
+  1. Entrega ÚNICAMENTE el paquete final, sin versiones previas ni borradores
+  2. NO incluyas verificaciones de caracteres ni notas de ajuste
+  3. NO escribas "Guion optimizado" ni "versión anterior"
+  4. El guion va directo con sus etiquetas [DETENTE][HOOK][CONFLICTO][MENSAJE][ELECCIÓN][CIERRE]
+  5. El guion COMPLETO no puede superar 1,650 caracteres — escríbelo así desde el inicio
 
-ESPEJO: ${numeroFinal} — ${nombreEspejoFinal}
+  ESPEJO: ${numeroFinal} — ${nombreEspejoFinal}
 
-PROMPT MASTER:
-${promptMaster}
-`;
+  PROMPT MASTER:
+  ${promptMaster}`;
 
   const respuesta = await client.messages.create({
     model: "claude-haiku-4-5-20251001",
@@ -426,10 +434,87 @@ ${promptMaster}
 // ============================================
 // FUNCIÓN PRINCIPAL — menú de entrada
 // ============================================
+// ============================================
+// FUNCIÓN PRINCIPAL — menú de entrada
+// ============================================
 async function main() {
   console.log("🔮 AGENTE 01 — GENERADOR DE GUIONES");
   console.log("=====================================\n");
 
+  // --- Detecta el día de hoy automáticamente ---
+  const dias = ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"];
+  const diaHoy = dias[new Date().getDay()];
+
+  // --- Plan fijo por día de la semana ---
+  const planSemanal: Record<string, { video1: string; video2: string; evitar?: string }> = {
+    Lunes:     { video1: "Signo individual", video2: "Signo individual" },
+    Martes:    { video1: "Signo individual", video2: "Astrológico" },
+    Miércoles: { video1: "Elemento",         video2: "Signo individual", evitar: "el elemento que elijas hoy" },
+    Jueves:    { video1: "Signo individual", video2: "Astrológico" },
+    Viernes:   { video1: "Signo individual", video2: "Signo individual" },
+    Sábado:    { video1: "Espejo Universal", video2: "Signo individual" },
+    Domingo:   { video1: "Elemento",         video2: "Astrológico",      evitar: "el elemento que elijas hoy" },
+  };
+
+  // --- Signos disponibles agrupados por elemento ---
+  const signosPorElemento: Record<string, string[]> = {
+    Fuego:  ["Aries", "Leo", "Sagitario"],
+    Tierra: ["Tauro", "Virgo", "Capricornio"],
+    Aire:   ["Geminis", "Libra", "Acuario"],
+    Agua:   ["Cancer", "Escorpio", "Piscis"],
+  };
+
+  // --- Lee el historial para sugerir signos menos usados ---
+  const historialSignos = leerHistorial();
+
+  // --- Ordena los 12 signos por fecha de último uso (primero los más antiguos) ---
+  const todosLosSignos = Object.keys(ELEMENTOS);
+  const signosOrdenados = todosLosSignos.sort((a, b) => {
+    const fechaA = historialSignos[a]?.fecha ?? "2000-01-01";
+    const fechaB = historialSignos[b]?.fecha ?? "2000-01-01";
+    return fechaA.localeCompare(fechaB); // el más antiguo primero
+  });
+
+  const planHoy = planSemanal[diaHoy];
+
+  console.log(`📅 HOY ES ${diaHoy.toUpperCase()}`);
+  console.log("─────────────────────────────────────────");
+  console.log(` Video 1 → ${planHoy.video1}`);
+  console.log(` Video 2 → ${planHoy.video2}`);
+
+  // --- Si hoy hay Elemento, avisa qué signos evitar ---
+  if (planHoy.evitar) {
+    const historialElementos = leerHistorialElementos();
+    const elementoSugerido = sugerirSiguienteElemento(historialElementos);
+    const signosDelElemento = signosPorElemento[elementoSugerido].join(", ");
+
+    console.log(`\n 🌍 Elemento sugerido hoy: ${elementoSugerido}`);
+    console.log(` ⚠️  Si usas ${elementoSugerido}, evita estos signos hoy:`);
+    console.log(`    ${signosDelElemento}`);
+
+    // --- Signos disponibles (sin los del elemento sugerido) ---
+    const signosDisponibles = signosOrdenados.filter(
+      (s) => !signosPorElemento[elementoSugerido].includes(s)
+    );
+    console.log(`\n ✅ Signos disponibles para hoy (por orden de prioridad):`);
+    console.log(`    ${signosDisponibles.join(", ")}`);
+
+  } else {
+    // --- Días sin Elemento: muestra todos los signos por prioridad ---
+    console.log(`\n ✅ Signos sugeridos para hoy (por orden de prioridad):`);
+    console.log(`    ${signosOrdenados.join(", ")}`);
+  }
+
+  // --- Si hoy hay Espejo, muestra cuál toca ---
+  if (planHoy.video1 === "Espejo Universal") {
+    const historialEspejo = leerHistorialEspejo();
+    const espejoSugerido = sugerirSiguienteEspejo(historialEspejo);
+    console.log(`\n 🪞 Espejo sugerido hoy: ${espejoSugerido} — ${ESPEJOS[espejoSugerido]}`);
+  }
+
+  console.log("─────────────────────────────────────────\n");
+
+  // --- Menú normal ---
   console.log("¿Qué tipo de contenido vas a generar?");
   console.log("  1. Signo individual  (ej: Géminis, Tauro...)");
   console.log("  2. Elemento          (Fuego, Tierra, Aire, Agua)");

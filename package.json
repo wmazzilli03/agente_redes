@@ -11,9 +11,11 @@
     "agente01-openai": "tsx agents/agente01-guion/agente01-openai.ts",
     "agente01-astrologia": "tsx agents/agente01-guion/agente01-astrologia.ts",
     "agente02": "tsx agents/agente02-audio/agente02.ts",
+    "agente02-gratis": "tsx agents/agente02-audio/agente02-gratis.ts",
     "agente03": "tsx agents/agente03-subtitulos/agente03.ts",
     "agente04-gemini": "tsx agents/agente04-imagenes/agente04-gemini.ts",
-    "agente04-openai": "tsx agents/agente04-imagenes/agente04-openai.ts"
+    "agente04-openai": "tsx agents/agente04-imagenes/agente04-openai.ts",
+    "agente04-imagenes": "tsx agents/agente04-imagenes/agente04-imagenes.ts"
   },
   "keywords": [],
   "author": "",

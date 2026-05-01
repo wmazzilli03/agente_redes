@@ -1,0 +1,331 @@
+# 🎬 PROMPT MASTER — YOUTUBE LARGO v1.8
+**Videos 10–14 min · Tarot zodiacal · Sin relleno · Embudo multiplataforma**
+> ⚡ v1.8: Compacto — misma esencia, máxima eficiencia de tokens · Sin checklists · Bloques de imagen como plantilla
+
+---
+
+## 📖 FLUJO SEMANAL
+
+```
+DOMINGO — Genera los 12 paquetes (uno por signo) usando tabla de rotación de ejes
+LUNES–SÁBADO — 2 videos/día en YouTube Studio · mismo Short a TikTok e Instagram ese día
+Orden: alterna signos de elementos distintos
+  Lunes → Aries + Cáncer · Martes → Tauro + Géminis · Miércoles → Leo + Escorpio
+  Jueves → Virgo + Libra · Viernes → Sagitario + Capricornio · Sábado → Acuario + Piscis
+```
+> ⚠️ Nunca más de 2 videos el mismo día en YouTube — se compiten y reducen distribución de todos.
+
+---
+
+## 🔔 CTA CAMPANA — FRASES EMOCIONALES (rotar cada semana)
+
+❌ Nunca: *"No olvides suscribirte y activar la campanita"* — suena a robot, la gente lo ignora.
+
+✅ Usar una de estas, rotando:
+- *"Si este mensaje te llegó hoy, activa la campana — cada semana traigo la lectura de tu signo y no quiero que te pierdas la tuya."*
+- *"Activa la campana aquí arriba — cuando suba tu próxima lectura, YouTube te avisa directo a tu teléfono."*
+- *"La lectura de la semana que viene va a profundizar en esto — activa la campana para que YouTube te avise cuando llegue."*
+- *"Los que tienen la campana activada son los primeros en recibir su lectura — si quieres ser de los primeros, actívala ahora."*
+
+---
+
+## 🔄 ROTACIÓN SEMANAL — EJES POR ELEMENTO
+
+| Semana | Fuego ♈♌♐ | Tierra ♉♍♑ | Aire ♊♎♒ | Agua ♋♏♓ |
+|--------|-----------|------------|----------|----------|
+| **1** | EJE 2 — Poder | EJE 1 — Cierre | EJE 4 — Señal | EJE 3 — Identidad |
+| **2** | EJE 3 — Identidad | EJE 5 — Merecimiento | EJE 1 — Cierre | EJE 2 — Poder |
+| **3** | EJE 4 — Señal | EJE 2 — Poder | EJE 5 — Merecimiento | EJE 1 — Cierre |
+| **4** | EJE 5 — Merecimiento | EJE 3 — Identidad | EJE 2 — Poder | EJE 4 — Señal |
+| **5** | EJE 1 — Cierre | EJE 4 — Señal | EJE 3 — Identidad | EJE 5 — Merecimiento |
+
+> Semana 6 = vuelve a semana 1. Ningún signo repite eje en 5 semanas.
+
+---
+
+## ♈ 3 MOMENTOS ENERGÉTICOS — NÚCLEO DEL VIDEO LARGO
+
+| Momento | Nombre | Qué revela |
+|---------|--------|-----------|
+| **Energía 1** | *Lo que cargaste* | El pasado que explica por qué llegaste aquí |
+| **Energía 2** | *Lo que se mueve ahora* | La energía activa en este momento — **clímax emocional** |
+| **Energía 3** | *Lo que viene si eliges* | Lo que es posible si tomas la decisión interna |
+
+**Reglas:** solo energía y sensación — nunca cartas ni arcanos · Energía 3 abre posibilidad, no garantiza · reinicio de atención obligatorio antes de Energía 2.
+
+### Adaptación por eje:
+| Eje | Energía 1 | Energía 2 | Energía 3 |
+|-----|-----------|-----------|-----------|
+| EJE 1 — Cierre | El apego que no has soltado | El ciclo terminando ahora | El espacio nuevo que se abre |
+| EJE 2 — Poder | El poder que guardaste | La activación ocurriendo | La versión que emerges si te permites |
+| EJE 3 — Identidad | La versión que mostraste a otros | El ser real que quiere volver | El reencuentro con quien siempre fuiste |
+| EJE 4 — Señal | La señal que ignoraste antes | La sincronía ocurriendo ahora | La dirección que el universo ya marcó |
+| EJE 5 — Merecimiento | La duda que te frenó | El merecimiento activándose | La recepción posible cuando te abres |
+
+---
+
+## ⏱️ ARQUITECTURA DE TIEMPO
+
+| Sección | Tiempo | Caracteres | Función |
+|---------|--------|-----------|---------|
+| [YT-GANCHO] | 0:00–0:50 | 400–500 | Promesa concreta · detiene el scroll |
+| [YT-INTRO] | 0:50–2:00 | 550–700 | Contexto energético · sincronía del momento |
+| [YT-CONFLICTO] | 2:00–5:00 | 1,100–1,400 | Dos capas de herida · micro-cliffhanger |
+| [YT-REVELACIÓN] | 5:00–9:00 | 1,600–2,000 | 3 momentos energéticos · reinicio de atención |
+| [YT-INTEGRACIÓN] | 9:00–11:30 | 900–1,100 | Acción práctica por elemento · ritual |
+| [YT-CIERRE] | 11:30–13:30 | 700–900 | Empoderamiento · CTA 3 capas · campana |
+| **TOTAL** | **12–14 min** | **5,250–6,600** | |
+
+> Voz IA lenta = ~110–120 palabras/min. No superar 6,600 caracteres.
+
+---
+
+## 🏷️ ETIQUETAS DEL GUION
+
+```
+[YT-GANCHO] → promesa concreta · misterio incompleto
+[YT-INTRO] → contexto energético · por qué llega AHORA
+[YT-CONFLICTO] → CAPA 1: herida visible (60–90 seg) · CAPA 2: herida interna (90–120 seg) · micro-cliffhanger al final
+[YT-REVELACIÓN] → reinicio de atención · ENERGÍA 1 · ENERGÍA 2 (clímax) · ENERGÍA 3 · CTA suave post-Energía 2
+[YT-INTEGRACIÓN] → acción práctica por elemento · ritual · palabra de activación
+[YT-CIERRE] → empoderamiento · CTA CAPA 1 (comentario) · CTA CAPA 2 (campana emocional) · CTA CAPA 3 (redirección)
+```
+> Las etiquetas no se graban — son guías de estructura.
+
+---
+
+## 🧠 DOS CAPAS — [YT-CONFLICTO]
+
+**Capa 1 — herida visible:** situación externa que todos reconocen inmediatamente.
+*"Llevas semanas sintiéndote agotado sin razón aparente."* · *"Algo terminó y no sabes cómo seguir."*
+
+**Capa 2 — herida interna:** emoción debajo de la situación. Hace que el espectador pause y diga *"esto es exactamente lo que siento"*.
+*"Y lo más difícil no es el cansancio. Es que ni tú mismo te has dado permiso de admitir que estás cansado."*
+
+---
+
+## 🌿 INTEGRACIÓN POR ELEMENTO
+
+| Elemento | Acción base | Ejemplo EJE 1 — Cierre |
+|----------|------------|----------------------|
+| 🔥 Fuego | Movimiento físico + intención | *"Enciende una vela. Mientras arde, di en voz alta lo que estás soltando."* |
+| 🌿 Tierra | Contacto físico + intención | *"Toma algo que represente lo que cargas. Ciérralo en tu mano. Luego suéltalo."* |
+| 🌬️ Aire | Escritura + respiración | *"Escribe lo que ya no te pertenece. Léelo en voz alta. Rómpelo."* |
+| 🌊 Agua | Agua + intención | *"Lávate las manos lentamente. Con cada gota, imagina que se va lo que ya no es tuyo."* |
+
+> Adapta a la herida del eje. No repitas la misma instrucción dos semanas seguidas para el mismo signo.
+
+---
+
+## 🔍 TÍTULOS EVERGREEN — BLOQUE 0
+
+> Solo evergreen hasta 10,000 suscriptores. Sin fechas — los títulos con fecha caducan y el algoritmo los entierra.
+
+**5 fórmulas:**
+| # | Fórmula | Búsqueda | Clic emocional |
+|---|---------|----------|----------------|
+| 01 — SECRETO | `Tarot [Signo]: lo que nadie te dice sobre [herida]` | ★★★★☆ | ★★★☆☆ |
+| 02 — PREGUNTA | `[Signo]: ¿por qué sientes que [herida]?` | ★★★☆☆ | ★★★★★ |
+| 03 — URGENCIA | `Tarot [Signo]: algo está cambiando en tu energía ahora mismo` | ★★★★☆ | ★★★★★ |
+| 04 — REVELACIÓN | `Tarot [Signo]: la verdad sobre [herida]` | ★★★★★ | ★★★★☆ |
+| 05 — VALIDACIÓN | `[Signo]: tienes razón en sentir [emoción específica]` | ★★★☆☆ | ★★★★★ |
+
+**Formato de salida:**
+```
+TÍTULO RECOMENDADO (canal en crecimiento): Título X — [razón]
+TÍTULO MÁS BUSCADO: Título X — [razón SEO]
+⚠️ Máx. 70 caracteres · signo al inicio · ningún título cierra la herida
+```
+
+---
+
+## 📦 PAQUETE DE SALIDA — 7 BLOQUES
+
+**Declarar al inicio:**
+```
+EJE: [número — nombre] · SIGNO: [signo] · ELEMENTO: [elemento] · SEMANA: [1–5]
+HERIDA: [frase específica] · ESTADO ENERGÉTICO: [transformación/misterio/peso/calma/sanación]
+ENERGÍA 1: [descripción] · ENERGÍA 2: [descripción] · ENERGÍA 3: [descripción]
+CAMPANA ESTA SEMANA: [frase elegida — rotar]
+```
+
+---
+
+### BLOQUE 0 — 5 TÍTULOS SEO EVERGREEN
+*(Ver sistema de títulos arriba — 5 opciones con ranking + recomendado + más buscado)*
+
+---
+
+### BLOQUE 1 — GUION LARGO (10–14 MIN)
+Guion completo con etiquetas: `[YT-GANCHO]` `[YT-INTRO]` `[YT-CONFLICTO]` `[YT-REVELACIÓN]` `[YT-INTEGRACIÓN]` `[YT-CIERRE]`
+
+Obligatorio: Capa 1 y Capa 2 en [YT-CONFLICTO] · 3 momentos energéticos en [YT-REVELACIÓN] · reinicio de atención antes de Energía 2 · CTA suscripción suave post-Energía 2 (nunca antes del min 5) · CTA 3 capas en [YT-CIERRE] · frase campana emocional (rotar) · signo 4–5 veces · máx. 10 pausas (…) · mín. 2 activadores psicológicos · 5,250–6,600 caracteres.
+
+> ⚠️ **Regla de cierre:** La frase final NUNCA termina con coma + signo. Usar siempre punto + signo.
+> ❌ *"Tu transformación no espera más, Escorpio."*
+> ✅ *"Tu transformación no espera más. Escorpio."*
+
+---
+
+### BLOQUE 2 — SHORT MULTIPLATAFORMA (30 SEG)
+
+Una grabación → YouTube Short + TikTok + Instagram Reels.
+
+```
+[GUION BASE — 25 seg]
+(frase de apertura dinámica — diferente al Short anterior)
+(promesa del [YT-GANCHO] condensada)
+(cliffhanger — herida abierta, nunca resuelta)
+
+[CIERRE UNIVERSAL — 5 seg]
+"La lectura energética completa está en YouTube — el link está en mi bio."
+```
+
+Adaptación por plataforma si se necesita:
+- YouTube Short → *"…está en el canal — suscríbete para no perdértela."*
+- TikTok / Instagram → *"…está en YouTube — el link está en mi bio."*
+
+---
+
+### BLOQUE 3 — DESCRIPCIÓN YOUTUBE
+
+```
+[Primera línea — máx 150 caracteres, visible sin expandir]
+(gancho emocional — no repite el título · abre la herida sin resolverla)
+
+[Párrafo 1] → amplía herida sin resolverla · conecta con la promesa
+[Párrafo 2] → SEO natural — palabras clave integradas como texto normal
+
+[Timestamps]
+0:00 – [nombre GANCHO]
+0:50 – [nombre INTRO]
+2:00 – [nombre CONFLICTO]
+5:00 – La lectura energética
+9:00 – [nombre INTEGRACIÓN]
+11:30 – [nombre CIERRE]
+
+[Cierre] → comentar con palabra clave + recordatorio campana
+
+#[Signo] #Tarot[Signo] #[SignoIngles]Tarot #TarotEnEspanol #MensajeDelUniverso
+```
+
+---
+
+### BLOQUE 4 — TAGS
+
+```
+SIGNO (3): [signo], tarot [signo], lectura [signo]
+GENERALES (3): tarot en español, lectura de tarot, mensaje del universo
+TENDENCIA (2): [2 según temporada o tendencia actual del nicho]
+```
+
+---
+
+### BLOQUE 5 — PROMPT MINIATURA VIDEO LARGO (16:9)
+
+**Plantilla:**
+```
+ChatGPT/DALL-E: Imagen horizontal 16:9, tarot cinematográfico realismo mágico, ultra hiperrealista 4K.
+[FIGURA O ANIMAL SEGÚN MODO Y SIGNO — ver tabla de variables].
+Estado emocional: coherente con título recomendado — [estado específico].
+Paleta: [colores del signo].
+[ATMÓSFERA SEGÚN EJE Y ESTADO EMOCIONAL].
+Composición horizontal: sujeto centrado o en tercio izquierdo — espacio derecho libre para texto si se necesita.
+Sin texto, sin marcas de agua, sin logos.
+```
+
+---
+
+### BLOQUE 6 — 6 PROMPTS NARRATIVOS 16:9
+
+**Arco emocional:**
+| Sección | Minuto | Estado | Atmósfera |
+|---------|--------|--------|-----------|
+| [YT-GANCHO] | 0:00 | Misterio — algo por revelarse | Símbolo apenas visible en sombra |
+| [YT-INTRO] | 0:50 | Reconocimiento — esto te habla a ti | Luz lateral suave, presencia cálida |
+| [YT-CONFLICTO] | 2:00 | Peso — carga en su punto más denso | Oscuridad dominante, postura contraída |
+| [YT-REVELACIÓN] | 5:00 | Quiebre — primer movimiento interno | Primer destello de luz desde adentro |
+| [YT-INTEGRACIÓN] | 9:00 | Umbral — entre dos versiones | Mitad sombra, mitad luz |
+| [YT-CIERRE] | 11:30 | Poder pleno — el renacer | Esplendor máximo, luz completa |
+
+**Plantilla (usar para los 6):**
+```
+📌 PROMPT NARRATIVO [SECCIÓN] — [Signo] | Min [X:XX]
+
+ChatGPT/DALL-E: Imagen horizontal 16:9, tarot cinematográfico realismo mágico, ultra hiperrealista 4K.
+Estado emocional: [estado según tabla] — momento [sección] del arco.
+[ANIMAL O FIGURA SEGÚN MODO] — [postura según estado], ocupa el encuadre horizontal.
+Símbolo/Energía: [sombra → destello → transición → esplendor según sección].
+Paleta: [colores del signo].
+Iluminación: [instrucción específica según tabla de atmósfera].
+Fondo: oscuro profundo coherente con paleta del signo.
+Atmósfera: [frase de 1 línea con la sensación exacta de esa sección].
+Sin texto, sin marcas de agua, sin logos.
+```
+
+---
+
+### BLOQUE 7 — PROMPT MINIATURA SHORT (9:16)
+
+```
+ChatGPT/DALL-E: Imagen vertical 9:16, tarot cinematográfico realismo mágico, ultra hiperrealista 4K.
+[Animal o figura del signo] — postura suspendida, tensión máxima sin resolución.
+Estado emocional: cliffhanger — algo a punto de ocurrir pero no ocurrió todavía.
+Símbolo/energía: apenas visible en sombra — luz incompleta, no revelada.
+Oscuridad dominante — 70% del encuadre en penumbra, solo un destello puntual.
+Paleta: [colores del signo] en versión más oscura y contenida.
+Atmósfera: lo que está por venir se siente pero no se ve — tensión visual máxima.
+Sin texto, sin marcas de agua, sin logos.
+```
+
+---
+
+## 🚫 PROHIBICIONES DE OUTPUT — NO GENERAR NUNCA
+❌ `CHECKLIST FINAL` · `NOTAS FINALES` · `DATOS DE VIRALIDAD` · `MATRIZ DE COHERENCIA` · resúmenes de cierre · explicaciones fuera de los bloques declarados
+> El paquete termina exactamente después del Bloque 7. Sin texto adicional.
+
+---
+
+## 📋 PROMPT BASE — COPIAR Y PEGAR
+
+```
+Genera un paquete completo usando el Prompt Master YouTube v1.8.
+
+EJE: [número — nombre]     ← CAMBIAR
+SIGNO: [signo y símbolo]   ← CAMBIAR
+ELEMENTO: [elemento]       ← CAMBIAR
+SEMANA: [1–5]              ← CAMBIAR
+
+Entrega los 7 bloques en orden:
+Bloque 0 — Títulos SEO (recomendado + más buscado identificados)
+Bloque 1 — Guion largo 10–14 min con etiquetas YT completas
+Bloque 2 — Short 30 seg con frase universal multiplataforma
+Bloque 3 — Descripción YouTube con timestamps y 5 hashtags
+Bloque 4 — Tags (3 signo + 3 generales + 2 tendencia)
+Bloque 5 — Prompt miniatura 16:9
+Bloque 6 — 6 prompts narrativos 16:9
+Bloque 7 — Prompt miniatura Short 9:16
+```
+
+---
+
+## 📅 12 PROMPTS LISTOS — SEMANA 1
+
+| Signo | Eje | Modo |
+|-------|-----|------|
+| ♈ ARIES | EJE 2 — Poder reprimido | A |
+| ♉ TAURO | EJE 1 — Cierre de ciclo | B |
+| ♊ GÉMINIS | EJE 4 — Señal del universo | B |
+| ♋ CÁNCER | EJE 3 — Identidad interna | B |
+| ♌ LEO | EJE 2 — Poder reprimido | A |
+| ♍ VIRGO | EJE 1 — Cierre de ciclo | B |
+| ♎ LIBRA | EJE 4 — Señal del universo | B |
+| ♏ ESCORPIO | EJE 3 — Identidad interna | A |
+| ♐ SAGITARIO | EJE 2 — Poder reprimido | A |
+| ♑ CAPRICORNIO | EJE 1 — Cierre de ciclo | B |
+| ♒ ACUARIO | EJE 4 — Señal del universo | B |
+| ♓ PISCIS | EJE 3 — Identidad interna | B |
+
+---
+
+*Prompt Master YouTube v1.8 — Compacto · 7 bloques · plantillas de imagen · sin checklists · misma esencia, menos tokens*

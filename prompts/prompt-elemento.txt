@@ -1,0 +1,531 @@
+# 🔥🌿🌬️🌊 PROMPT MASTER — ELEMENTOS
+**Versión 1.0 | Facebook · Instagram · TikTok · YouTube Shorts**
+
+> 🔥 **Por qué existe este framework:** El algoritmo de Facebook hace una prueba de distribución inicial con audiencia pequeña. Con "Signos de Fuego" arrancas con 3x más audiencia en esa prueba. Más combustible = más empuje orgánico. Validado por datos reales del canal.
+> 📊 **Relación con Prompt Master v4.6:** Framework hermano. Misma estructura de bloques, mismas leyes de portada y guion. La diferencia: el protagonista es el **elemento**, no el signo.
+
+---
+
+## 🎯 CUÁNDO USAR ESTE FRAMEWORK
+
+| Usa **Prompt Master por Signo** cuando... | Usa **Prompt Master Elementos** cuando... |
+|------------------------------------------|------------------------------------------|
+| Tu audiencia ya te sigue | Quieres alcance nuevo, audiencia fría |
+| Buscas comentarios profundos y personales | Buscas views altas y compartidas masivas |
+| La herida es muy específica del signo | La herida es universal del elemento |
+| Llevas 3+ videos del mismo elemento seguidos | Necesitas romper techo de alcance |
+
+> ✅ **Regla de alternancia recomendada:** 2 videos por signo → 1 video por elemento → 2 videos por signo.
+
+---
+
+## 🌍 LOS 4 ELEMENTOS — IDENTIDAD, HERIDA Y ENERGÍA
+
+### 🔥 FUEGO — Aries · Leo · Sagitario
+
+| Campo | Contenido |
+|-------|-----------|
+| **Herida universal** | Se consumen dando. Encienden a todos menos a sí mismos. |
+| **Superpoder reprimido** | Liderazgo, visión, fuego creador |
+| **Tono del guion** | Urgente, expansivo, poderoso — como llamarada que vuelve |
+| **Paleta visual** | Rojo intenso, dorado ardiente, naranja solar, negro profundo |
+| **CTA de poder** | ENCIENDO / ARDO / SOY FUEGO / BRILLO / LANZO |
+| **Hook modelo** | *"Signos de Fuego… están apagando su llama por alguien que nunca la encendió."* |
+
+### 🌿 TIERRA — Tauro · Virgo · Capricornio
+
+| Campo | Contenido |
+|-------|-----------|
+| **Herida universal** | Construyeron tanto para otros que olvidaron construir para sí. |
+| **Superpoder reprimido** | Resistencia, materialización, raíz profunda |
+| **Tono del guion** | Denso, profundo, contenido — como tierra que se abre después de lluvia larga |
+| **Paleta visual** | Verde oscuro, marrón cálido, gris pizarra, dorado antiguo |
+| **CTA de poder** | SOY RAÍZ / ME CONSTRUYO / RECIBO / MEREZCO / PLANTO |
+| **Hook modelo** | *"Signos de Tierra… llevan años siendo la roca de todos. ¿Quién es su roca?"* |
+
+### 🌬️ AIRE — Géminis · Libra · Acuario
+
+| Campo | Contenido |
+|-------|-----------|
+| **Herida universal** | Pensaron tanto que se desconectaron de lo que sienten. |
+| **Superpoder reprimido** | Claridad mental, visión única, capacidad de ver lo que otros no ven |
+| **Tono del guion** | Fluido, revelador, intelectual — como viento que despeja niebla de golpe |
+| **Paleta visual** | Amarillo dorado, azul eléctrico, blanco opalescente, negro |
+| **CTA de poder** | VEO CLARO / DESPIERTO / SOY LIBRE / ENTIENDO / ELIJO |
+| **Hook modelo** | *"Signos de Aire… su mente ve todo. Menos lo que se están haciendo a sí mismos."* |
+
+### 🌊 AGUA — Cáncer · Escorpio · Piscis
+
+| Campo | Contenido |
+|-------|-----------|
+| **Herida universal** | Sintieron tanto por otros que apagaron lo que sienten por sí mismos. |
+| **Superpoder reprimido** | Intuición profunda, empatía transformadora, conexión con lo invisible |
+| **Tono del guion** | Ondulante, íntimo, misterioso — como marea que vuelve inevitablemente |
+| **Paleta visual** | Azul marino, burdeos profundo, blanco perla, violeta, plata |
+| **CTA de poder** | FLUYO / SIENTO / RENAZCO / CONFÍO / RECIBO |
+| **Hook modelo** | *"Signos de Agua… sienten todo. El problema es que sienten más por los demás que por sí mismos."* |
+
+---
+
+## 🔗 LEY DE COHERENCIA EMOCIONAL — OBLIGATORIA
+
+**Regla absoluta:** Imagen + Portada + Hook deben compartir **una sola herida emocional del elemento.**
+
+### Proceso obligatorio antes de generar:
+
+1. **Elige el elemento** (Fuego / Tierra / Aire / Agua)
+2. **Define la herida específica** de ese elemento en este video (una frase concreta)
+3. **Elige el estado energético** según la herida:
+   - Agotamiento / carga → **Peso** o **Calma**
+   - Poder reprimido → **Transformación** o **Misterio**
+   - Desconexión de sí mismo → **Misterio** o **Urgencia**
+   - Merecimiento negado → **Sanación** o **Calma**
+4. **La portada** nombra esa herida como pregunta o tensión — NUNCA como respuesta
+5. **El hook** profundiza esa misma herida — no introduce una nueva
+
+---
+
+## ⛔ LEY DE LA PORTADA QUE NO CIERRA
+
+**Regla de oro:** La portada **NUNCA da la respuesta. NUNCA consuela. NUNCA resuelve.**
+
+### La prueba del dedo:
+Tapa la imagen. Lee solo la caja amarilla.
+- Si ya sabes de qué va el video → **RECHAZADA**
+- Si sientes incomodidad, curiosidad o urgencia → **APROBADA**
+
+### ❌ Portadas prohibidas:
+- *"Signos de Agua, tu sensibilidad es tu fuerza"* → ya cerró la herida
+- *"Signos de Tierra, mereces recibir"* → ya entregó el consuelo
+- *"Signos de Fuego, tu energía vuelve"* → ya resolvió el mensaje
+
+### ✅ Portadas que disparan el clic:
+- *"Signos de Agua… ¿para quién sientes?"* → incomoda, no resuelve
+- *"Signos de Fuego, algo en ti se apagó"* → abre, no cierra
+- *"Signos de Tierra… ¿cuándo fue la última vez que recibiste?"* → duele, exige respuesta
+
+---
+
+## 🛑 APERTURA DINÁMICA — "DETENTE"
+
+Antes del hook, frase de parada que rompe el scroll.
+
+**Regla crítica:** Varía por elemento y herida. Nunca se repite igual entre videos.
+
+### Banco por elemento:
+
+**🔥 Fuego — heridas de intensidad / agotamiento de fuerza:**
+- *"Espera. Signos de Fuego, esto es urgente."*
+- *"Alto. Tu energía está a punto de cambiar."*
+- *"Para. Lo que sientes tiene nombre y es tuyo."*
+
+**🌿 Tierra — heridas de carga / construcción sin recibir:**
+- *"Detente. Signos de Tierra, esto llegó para ti."*
+- *"Espera un momento. Lo que cargas tiene límite."*
+- *"Para. Alguien necesitaba decirte esto hoy."*
+
+**🌬️ Aire — heridas de desconexión / mente vs corazón:**
+- *"Párate un segundo. Signos de Aire, escucha esto."*
+- *"Espera. Su mente lo sabe. Pero ¿y su corazón?"*
+- *"Detente aquí. Hay algo que necesitan escuchar."*
+
+**🌊 Agua — heridas de absorción emocional / silencio propio:**
+- *"Quédate. Signos de Agua, esto no llegó por casualidad."*
+- *"Espera. Esto es exactamente lo que necesitas hoy."*
+- *"Un instante. Alguien necesitaba decirles esto."*
+
+---
+
+## ⏱️ DURACIÓN Y CONTROL DE CARACTERES
+
+**Duración objetivo:** 1:30 – 1:50 minutos
+
+| Límite | Caracteres |
+|--------|-----------|
+| Mínimo | 1,300 |
+| Máximo | 1,650 |
+
+### Distribución por sección:
+
+| Sección | Caracteres | Función |
+|---------|-----------|---------|
+| [DETENTE] | 40–60 | Frase de parada + nombre del elemento |
+| [HOOK] | 200–260 | Misterio incompleto — herida del elemento |
+| [CONFLICTO] | 280–330 | Lucha emocional colectiva + cliffhanger |
+| [MENSAJE] | 320–380 | Revelación espiritual |
+| [ELECCIÓN] | 250–320 | Poder personal + decisión |
+| [CIERRE] | 230–300 | Empoderamiento + CTA |
+
+---
+
+## 🏷️ FORMATO DE ENTREGA DEL GUION
+
+```
+[DETENTE]
+(frase de parada + nombre del elemento)
+
+[HOOK]
+(primera frase que detiene el scroll — herida del elemento)
+
+[CONFLICTO]
+(lucha emocional colectiva + micro-cliffhanger al final)
+
+[MENSAJE]
+(revelación espiritual + reinicio de atención)
+
+[ELECCIÓN]
+(poder personal + decisión interna)
+
+[CIERRE]
+(empoderamiento + CTA de poder)
+```
+
+---
+
+## 🧲 HOOK INICIAL — OBLIGATORIO
+
+**Fórmula para elementos:** `Signos de [Elemento]… [revelación incompleta que exige continuar]`
+
+**Reglas:**
+- Menciona los 3 signos del elemento dentro del [HOOK], no solo en el [DETENTE]
+- Abre una herida que el video resolverá — nunca el hook
+- Genera: misterio, reconocimiento colectivo o urgencia espiritual
+
+**Ejemplos:**
+
+*Fuego — Reconocimiento:*
+"Signos de Fuego… Aries, Leo, Sagitario… hay algo que los tres tienen en común ahora mismo. Y ninguno lo está diciendo en voz alta."
+
+*Tierra — Peso:*
+"Signos de Tierra… Tauro, Virgo, Capricornio… llevan cargando algo que ya dejó de ser suyo. Y el cuerpo lo sabe antes que la mente."
+
+*Agua — Misterio:*
+"Signos de Agua… Cáncer, Escorpio, Piscis… sienten cosas que no pueden explicar. Y esta semana eso tiene un nombre."
+
+---
+
+## 🎙️ VOZ IA — RITMO Y PAUSAS
+
+- **Pausas (…):** máximo **8 en todo el guion**
+- Alternar frases cortas (5–8 palabras) con frases medias (12–18 palabras)
+- **Nombre del elemento** en apertura y primera frase del hook
+- **Los 3 signos del elemento** mencionados al menos una vez dentro del guion
+- Un momento de intensidad emocional por sección
+
+---
+
+## 🧠 ARQUITECTURA DE RETENCIÓN
+
+### 1. Hook con misterio incompleto
+→ Primera frase del [HOOK] — herida colectiva del elemento
+
+### 2. Micro-cliffhanger
+→ Al final del [CONFLICTO]
+*"Pero lo que los tres tienen en común… es lo que está a punto de cambiar todo."*
+
+### 3. Reinicio de atención
+→ Dentro del [MENSAJE]
+- *"Escucha esto, signos de [elemento]…"*
+- *"Aquí es donde todo empieza a cambiar."*
+- *"Y los tres lo sienten ahora mismo."*
+
+### 4. Momento de tensión emocional
+→ Inicio del [MENSAJE] — el instante de mayor claridad interna del elemento
+
+---
+
+## 🔑 ACTIVADORES PSICOLÓGICOS — MÍNIMO 2 POR GUION
+
+### FILTRO COLECTIVO
+*"Si eres Cáncer, Escorpio o Piscis y esto apareció frente a ti… no fue al azar."*
+
+### RECONOCIMIENTO GRUPAL
+*"Los tres signos de [elemento] están sintiendo esto ahora mismo."*
+
+### ANTICIPACIÓN EMOCIONAL
+*"Y cuando entiendan por qué los tres comparten esta energía… todo tendrá sentido."*
+
+### ESPEJO DEL ELEMENTO
+*"Hay algo que [Fuego / Tierra / Aire / Agua] carga en silencio. Y los tres lo saben."*
+
+### URGENCIA TEMPORAL
+*"Este es el momento exacto en que su energía necesita escuchar esto."*
+
+---
+
+## 💬 ACTIVACIÓN DE COMENTARIOS
+
+**Posición:** dentro del [CIERRE], antes de la última frase.
+
+**Opción A — Identificación de signo:**
+*"Escribe tu signo aquí abajo — Aries, Leo o Sagitario. Te leo."*
+→ Genera volumen de comentarios. Señal fuerte de engagement para el algoritmo.
+
+**Opción B — CTA de poder:**
+*"Escribe ENCIENDO si esto llegó en el momento exacto."*
+→ Comentarios de mayor impacto emocional y compartidas.
+
+> ✅ **Regla:** Usa Opción A cuando quieras volumen. Usa Opción B cuando quieras profundidad.
+
+---
+
+## 📦 PAQUETE DE SALIDA UNIFICADO — OBLIGATORIO
+
+Al inicio indicar: **ELEMENTO: [nombre] · HERIDA CENTRAL: [frase]**
+
+Entregar **5 bloques en este orden.**
+
+---
+
+## BLOQUE 1 — GUION
+
+*(Guion completo con etiquetas [DETENTE] [HOOK] [CONFLICTO] [MENSAJE] [ELECCIÓN] [CIERRE])*
+
+---
+
+## BLOQUE 2 — PORTADAS (CAJA AMARILLA)
+
+Generar **3 a 5 opciones** con las 5 fórmulas virales adaptadas a elemento.
+
+```
+OPCIÓN A: "[texto]" → Fórmula 01 | ★★★★★ Potencial viral
+OPCIÓN B: "[texto]" → Fórmula 02 | ★★★★★ Potencial viral
+OPCIÓN C: "[texto]" → Fórmula 03 | ★★★★☆ Potencial viral
+OPCIÓN D: "[texto]" → Fórmula 04 | ★★★★☆ Potencial viral
+OPCIÓN E: "[texto]" → Fórmula 05 | ★★★☆☆ Potencial viral
+
+★ RECOMENDADA: Opción X — porque [razón específica]
+⚠️ PRUEBA DEL DEDO: ¿Ya sabes el final solo con leerla? Si sí → descártala.
+```
+
+### Las 5 fórmulas virales adaptadas a elemento:
+
+**01 — SECRETO DEL ELEMENTO**
+`Signos de [Elemento]… nadie les dice esto`
+★★★★☆
+
+**02 — PREGUNTA QUE DUELE**
+`Signos de [Elemento]… ¿cuándo fue la última vez que [emoción vulnerable del elemento]?`
+★★★★★
+
+**03 — ADVERTENCIA ENERGÉTICA**
+`Signos de [Elemento]… algo en su energía está a punto de [cambiar / moverse / despertar]`
+★★★★★
+
+**04 — VALIDACIÓN INCÓMODA**
+`Signos de [Elemento]… [algo que sienten] y tienen razón`
+★★★★☆
+
+**05 — TENSIÓN SIN RESOLVER**
+`Signos de [Elemento]… lo que [llevan / cargan / guardan] en silencio tiene nombre`
+★★★★★
+
+**Reglas de formato:**
+- Máximo **8 palabras**
+- Fondo **amarillo sólido**, texto **negro bold**
+- **"Signos de [Elemento]"** debe aparecer en la portada
+
+---
+
+## BLOQUE 3 — COPY DE DESCRIPCIÓN
+
+**Reglas:**
+- Máximo **180 palabras**
+- Primera línea: gancho emocional (diferente al texto de portada)
+- Cuerpo: 2–3 frases que amplían la herida sin resolverla
+- Cierre: invitación + CTA de elemento
+- Máximo **8 hashtags** — incluir los 3 signos individuales + elemento
+
+**Esquema de hashtags por elemento:**
+
+🔥 Fuego: `#SignosDeFuego #Aries #Leo #Sagitario #TarotFuego #[TagEmocional] #MensajeDelUniverso #TarotEnEspanol`
+
+🌿 Tierra: `#SignosDeTierra #Tauro #Virgo #Capricornio #TarotTierra #[TagEmocional] #MensajeDelUniverso #TarotEnEspanol`
+
+🌬️ Aire: `#SignosDeAire #Geminis #Libra #Acuario #TarotAire #[TagEmocional] #MensajeDelUniverso #TarotEnEspanol`
+
+🌊 Agua: `#SignosDeAgua #Cancer #Escorpio #Piscis #TarotAgua #[TagEmocional] #MensajeDelUniverso #TarotEnEspanol`
+
+> ⚠️ El hashtag del elemento concentra las 3 audiencias en un solo punto de distribución — es el más importante.
+
+---
+
+## BLOQUE 4 — 5 PROMPTS DE IMAGEN (PORTADAS)
+
+> **Modo A recomendado por defecto para elementos** — mayor impacto visual con composición de 3 animales.
+> Modo B disponible para ejes de identidad o merecimiento.
+
+### 🔥 PROMPT BASE — FUEGO (Modo A)
+
+```
+ChatGPT/DALL-E: Imagen vertical 9:16, tarot cinematográfico realismo mágico, ultra hiperrealista 4K.
+Composición: tres animales de poder colosales en composición triangular de fuego —
+carnero con cuernos ardientes (Aries) en primer plano izquierdo,
+león con corona dorada y melena de llamas (Leo) al centro dominante,
+centauro de constelaciones con arco de luz dorada (Sagitario) emergiendo desde arriba.
+Los tres conectados por corrientes de fuego dorado y rojo entre sus cuerpos.
+Paleta: rojo intenso, dorado ardiente, naranja solar, negro profundo.
+Elemento: suelo de lava fracturada, llamas expansivas, rayos dorados volumétricos, partículas de fuego.
+Aura de fuego colectiva envolviendo la composición entera, bokeh profundo.
+[ESTADO EMOCIONAL DEL GANCHO]
+Sin texto, sin marcas de agua, sin logos.
+```
+
+### 🌿 PROMPT BASE — TIERRA (Modo A)
+
+```
+ChatGPT/DALL-E: Imagen vertical 9:16, tarot cinematográfico realismo mágico, ultra hiperrealista 4K.
+Composición: tres seres de tierra colosales en composición de montaña —
+toro ancestral de cuernos plateados con pelaje oscuro (Tauro) a la izquierda,
+ser arquetípico de espigas y raíces luminosas (Virgo) al centro,
+cabra montés de cuernos de plata antigua y pelaje de roca nevada (Capricornio) en altura superior.
+Los tres conectados por raíces luminosas doradas emergiendo de la tierra oscura entre ellos.
+Paleta: verde oscuro, marrón cálido, gris pizarra, dorado antiguo.
+Elemento: tierra profunda con venas de luz dorada, raíces monumentales, niebla cálida en la base.
+Aura terrosa dorada envolviendo la composición, bokeh profundo.
+[ESTADO EMOCIONAL DEL GANCHO]
+Sin texto, sin marcas de agua, sin logos.
+```
+
+### 🌬️ PROMPT BASE — AIRE (Modo A)
+
+```
+ChatGPT/DALL-E: Imagen vertical 9:16, tarot cinematográfico realismo mágico, ultra hiperrealista 4K.
+Composición: tres seres de aire en composición de espiral ascendente —
+dos mariposas monumentales de cristal iridiscente (Géminis) en la base,
+figura alada etérea con balanza de bronce y luz dorada (Libra) al centro,
+ser de corrientes eléctricas turquesas con rayos en zigzag (Acuario) en el ápice.
+Los tres conectados por corrientes de aire iridiscente y partículas en órbita entre ellos.
+Paleta: amarillo dorado, azul eléctrico, blanco opalescente, negro.
+Elemento: espiral de viento visible, rayos cruzados, partículas bicolores en vuelo, aura dual.
+Aura de aire brillante envolviendo la composición, bokeh profundo.
+[ESTADO EMOCIONAL DEL GANCHO]
+Sin texto, sin marcas de agua, sin logos.
+```
+
+### 🌊 PROMPT BASE — AGUA (Modo A)
+
+```
+ChatGPT/DALL-E: Imagen vertical 9:16, tarot cinematográfico realismo mágico, ultra hiperrealista 4K.
+Composición: tres seres de agua colosales en composición de profundidad submarina —
+cangrejo monumental de caparazón nacarada con reflejos lunares (Cáncer) a la izquierda,
+escorpión monumental de exoesqueleto negro con venas de luz violeta (Escorpio) al centro dominante,
+dos peces dorados monumentales en espiral mística (Piscis) emergiendo desde arriba.
+Los tres conectados por corrientes de agua luminosa azul y violeta entre sus cuerpos.
+Paleta: azul marino, burdeos profundo, blanco perla, violeta profundo, plata.
+Elemento: entorno submarino oscuro, burbujas luminosas, corrientes de luz, luna reflejada al fondo.
+Aura acuática violeta-plateada envolviendo la composición, bokeh profundo.
+[ESTADO EMOCIONAL DEL GANCHO]
+Sin texto, sin marcas de agua, sin logos.
+```
+
+### Tabla de estados emocionales por gancho:
+
+| Fórmula | Estado | Atmósfera |
+|---------|--------|-----------|
+| 01 — Secreto del elemento | Misterio | Niebla densa, luz apenas perceptible |
+| 02 — Pregunta que duele | Sanación | Luz cálida lateral, partículas suaves |
+| 03 — Advertencia energética | Transformación | Energía desbordante, contraste máximo |
+| 04 — Validación incómoda | Cierre de ciclo | Luz suave descendente, presencia solemne |
+| 05 — Tensión sin resolver | Poder máximo | Energía contenida a punto de liberarse |
+
+---
+
+## BLOQUE 5 — 5 PROMPTS NARRATIVOS DEL GUION
+
+> El arco emocional se expresa a través del elemento mismo y la composición de los 3 animales.
+
+### Arco emocional del elemento:
+
+| Sección | Estado | Expresión visual |
+|---------|--------|-----------------|
+| [HOOK] | **Tensión** | Elemento contenido, animales con postura pesada |
+| [CONFLICTO] | **Peso máximo** | Elemento comprimido, animales contraídos |
+| [MENSAJE] | **Quiebre** | Primer destello del elemento, primer movimiento |
+| [ELECCIÓN] | **Umbral** | Elemento en transición, animales entre dos estados |
+| [CIERRE] | **Poder pleno** | Elemento en máximo esplendor, animales erguidos |
+
+### Instrucción de iluminación unificada:
+
+```
+Penumbra cálida al 45% de luz.
+Fuente dorada-plateada suave desde lateral alta.
+Fondo gris pizarra profundo — NO negro absoluto.
+Animales siempre legibles a pantalla pequeña.
+Sin sombras de negro total. Atmósfera mística, cálida, accesible.
+Cohesión visual de serie obligatoria.
+```
+
+### Plantilla de prompt narrativo:
+
+```
+📌 PROMPT NARRATIVO [SECCIÓN] — Signos de [ELEMENTO]
+
+ChatGPT/DALL-E: Imagen vertical 9:16, tarot cinematográfico realismo mágico, ultra hiperrealista 4K.
+Estado emocional: [tensión / peso / quiebre / umbral / poder] — momento [SECCIÓN] del arco.
+Composición: tres animales del elemento en [postura colectiva según arco],
+juntos ocupan el 70% del encuadre.
+[descripción específica del estado de cada animal según la sección]
+Símbolo/Energía del elemento: [apagado / primer destello / transición / esplendor].
+Paleta: [colores del elemento].
+Iluminación: penumbra cálida al 45% de luz. Fuente dorada suave desde lateral alta.
+Fondo gris pizarra profundo. Animales legibles a pantalla pequeña.
+Sin sombras de negro total. Atmósfera mística y accesible.
+Atmósfera: [frase de 1 línea que describe la sensación de esa sección].
+Sin texto, sin marcas de agua, sin logos.
+```
+
+---
+
+## 📵 PROHIBICIONES ABSOLUTAS
+
+- ❌ Portadas que consuelan, resuelven o cierran la herida del elemento
+- ❌ Hook que revela el desenlace
+- ❌ Más de 8 pausas (…) en el guion
+- ❌ Fechas exactas o predicciones rígidas
+- ❌ Tecnicismos de tarot
+- ❌ CTA pasivo o que genere vergüenza ("lo siento", "estoy mal", "necesito ayuda")
+- ❌ No mencionar los 3 signos del elemento dentro del guion
+- ❌ Repetir el mismo elemento dos videos consecutivos sin alternar con signo individual
+- ❌ Omitir hashtags de los 3 signos individuales en el copy
+
+---
+
+## ✅ CHECKLIST FINAL
+
+### Declaración inicial
+- [ ] ELEMENTO declarado
+- [ ] HERIDA CENTRAL declarada (una frase concreta)
+
+### Bloque 1 — Guion
+- [ ] Caracteres entre 1,300 y 1,650
+- [ ] Etiquetas [DETENTE] [HOOK] [CONFLICTO] [MENSAJE] [ELECCIÓN] [CIERRE] presentes
+- [ ] Nombre del elemento en apertura y primera frase del hook
+- [ ] Los 3 signos del elemento mencionados dentro del guion
+- [ ] Micro-cliffhanger al final del [CONFLICTO]
+- [ ] Reinicio de atención dentro del [MENSAJE]
+- [ ] Mínimo 2 activadores psicológicos
+- [ ] Máximo 8 pausas (…)
+- [ ] CTA de poder en [CIERRE]
+
+### Bloque 2 — Portadas
+- [ ] 3 a 5 opciones con fórmula y ranking
+- [ ] Prueba del dedo aplicada
+- [ ] Máximo 8 palabras por opción
+- [ ] "Signos de [Elemento]" en cada opción
+
+### Bloque 3 — Copy
+- [ ] Máximo 180 palabras
+- [ ] No repite frases del guion
+- [ ] 8 hashtags incluyendo los 3 signos individuales + elemento
+
+### Bloques 4 y 5 — Prompts de imagen
+- [ ] Composición de los 3 animales del elemento en prompts de portada
+- [ ] Arco emocional progresivo en los 5 prompts narrativos
+- [ ] Iluminación unificada al 45% en los 5 narrativos
+- [ ] Fondo gris pizarra consistente
+- [ ] Sin texto ni marcas de agua
+
+---
+
+*Prompt Master Elementos v1.0 — Framework de alcance máximo. Usar en alternancia con Prompt Master v4.6 por signo para equilibrar profundidad y alcance orgánico.*

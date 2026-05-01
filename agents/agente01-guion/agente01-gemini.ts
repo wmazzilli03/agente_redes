@@ -130,10 +130,10 @@ async function main() {
     process.exit(1);
   }
 
-  const tipo = await preguntar("¿Corto o largo? (escribe: corto / largo): ");
+  const tipo = await preguntar("¿Corto, largo, lectura, astrologia? (escribe: Corto, largo, lectura, astrologia): ");
 
-  if (tipo !== "corto" && tipo !== "largo") {
-    console.error('❌ Solo puedes escribir "corto" o "largo"');
+  if (tipo !== "corto" && tipo !== "largo" && tipo !== "lectura" && tipo !== "astrologia") {
+    console.error('❌ Solo puedes escribir "corto" o "largo" o "lectura" o "astrologia"');
     process.exit(1);
   }
 
